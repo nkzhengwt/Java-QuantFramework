@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/JAVA/zwt_strategies/src/loaders/CsvBarsLoader.java</file>
+            <file>file:/E:/JAVA/zwt_strategies/src/indicators/CandlestickChart.java</file>
+            <file>file:/E:/JAVA/zwt_strategies/src/sma/SimpleMovingAverageBacktesting.java</file>
+            <file>file:/E:/JAVA/zwt_strategies/src/sma/Sma_strategy.java</file>
+            <file>file:/E:/JAVA/zwt_strategies/src/indicators/CandlestickChartWithChopIndicator.java</file>
+            <file>file:/E:/JAVA/zwt_strategies/src/sma/StrategyAnalysis.java</file>
+            <file>file:/E:/JAVA/zwt_strategies/src/sma/CashFlowToChart.java</file>
+            <file>file:/E:/JAVA/zwt_strategies/src/indicators/IndicatorsToChart.java</file>
+            <file>file:/E:/JAVA/zwt_strategies/src/sma/BuyAndSellSignalsToChart.java</file>
+            <file>file:/E:/JAVA/zwt_strategies/src/strategies/RSI2Strategy.java</file>
+            <file>file:/E:/JAVA/zwt_strategies/src/loaders/CsvTradesLoader.java</file>
+            <file>file:/E:/JAVA/zwt_strategies/src/strategies/CCICorrectionStrategy.java</file>
+            <file>file:/E:/JAVA/zwt_strategies/src/strategies/MovingMomentumStrategy.java</file>
+            <file>file:/E:/JAVA/zwt_strategies/src/WalkForward/WalkForward.java</file>
+            <file>file:/E:/JAVA/zwt_strategies/src/sma/TradingBotOnMovingTimeSeries.java</file>
+            <file>file:/E:/JAVA/zwt_strategies/src/timeSeries/BuildTimeSeries.java</file>
+            <file>file:/E:/JAVA/zwt_strategies/src/strategies/GlobalExtremaStrategy.java</file>
+        </group>
+    </open-files>
+</project-private>
